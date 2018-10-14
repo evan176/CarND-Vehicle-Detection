@@ -27,6 +27,11 @@ The goals / steps of this project are the following:
 [notcar_hsv]: ./examples/notcar_hsv.png
 [search_map]: ./examples/search_map.png
 [corresponding]: ./examples/corresponding.png
+[corresponding2]: ./examples/corresponding2.png
+[corresponding3]: ./examples/corresponding3.png
+[corresponding4]: ./examples/corresponding4.png
+[corresponding5]: ./examples/corresponding5.png
+[corresponding6]: ./examples/corresponding6.png
 [video1]: ./project_video.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
@@ -97,4 +102,8 @@ Here's an example result showing the heatmap from a series of frames of video, t
 
 ### Here are six frames and their corresponding heatmaps and labels:
 ![alt text][corresponding]
-
+![alt text][corresponding2]
+![alt text][corresponding3]
+![alt text][corresponding4]
+![alt text][corresponding5]
+![alt text][corresponding6]
